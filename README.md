@@ -1,3 +1,6 @@
+Hi there 👋
+I am Mustafa Yavuz SARI, a computer engineering student at METU.
+
 
 <!---
 myvzsari/myvzsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
